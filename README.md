@@ -7,11 +7,11 @@
 
 | Campo | Valor |
 | --- | --- |
-| Nombre completo | _Escribe aquí tu nombre_ |
-| Usuario de GitHub | _@tu-usuario_ |
-| Paralelo | _A / B / C_ |
+| Nombre completo | _Nerquis Alexander Carrera Gaibor_ |
+| Usuario de GitHub | _@Nerquis2025_ |
+| Paralelo | _B_ |
 | Unidad | _1_ |
-| Correo institucional | _tu_correo@uide.edu.ec_ |
+| Correo institucional | _necarreraga@uide.edu.ec_ |
 
 ## Entregas de la unidad
 
